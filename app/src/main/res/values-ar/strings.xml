@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">الإعدادات</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_admin">تسجيل الدخول كإداري</string>
+    <string name="login_user">تسجيل الدخول كمستخدم</string>
+</resources>

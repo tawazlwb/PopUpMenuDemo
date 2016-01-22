@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">PopUpMenuDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login">Login</string>
+    <string name="login_admin">Login as Admin</string>
+    <string name="login_user">Login as User</string>
+
+</resources>
